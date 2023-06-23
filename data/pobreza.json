@@ -1,0 +1,2212 @@
+{
+    "header": {
+        "name": "uneclac cepalstat api",
+        "version": "1.9.13",
+        "success": true,
+        "machine": "02",
+        "context": "public",
+        "code": 200,
+        "message": "",
+        "timestamp": 1687145767
+    },
+    "body": {
+        "metadata": {
+            "indicator_id": 3328,
+            "indicator_name": "Población en situación de pobreza extrema y pobreza según área geográfica",
+            "theme": "Estadísticas e Indicadores Sociales",
+            "area": "Pobreza",
+            "note": "El porcentaje de personas pobres incluye a las personas bajo la línea de pobreza extrema.\r\nODS. Indicador adicional propuesto por CEPAL. Objetivo 1 / Meta 1.2 / Indicador 1.2.1",
+            "unit": "Porcentaje del total de la población en cada área geográfica",
+            "data_features": "Cálculo proveniente de encuestas de hogares",
+            "definition": "Porcentaje del total de la población cuyo ingreso per cápita medio está por debajo de la línea de pobreza e indigencia (pobreza extrema)\r\n",
+            "calculation_methodology": "<b>1. Cálculo del indicador (conocido con el nombre de \"índice de recuento\"):</b>Si se denota como \"n\" el número total de personas e \"i\" como el número de personas cuyo ingreso per cápita medio está debajo de la línea de indigencia, el porcentaje de personas en situación de indigencia se expresa como I=i/n.</p>Si se denota como \"p\" el número de personas cuyo ingreso per cápita medio está debajo de la línea de pobreza, el porcentaje de personas en situación de pobreza se expresa como P=p/n.</p>\r\n<p>Este indicador incluye a las personas bajo la línea de indigencia (por definición, P&#8805;I). El ingreso per cápita (yPC) se calcula dividiendo el ingreso total de cada hogar por el número de personas que lo componen, su tamaño T: yPC = YTOT/T.</p>\r\n\r\n\r\n2. <b>Aspectos metodológicos generales</b>:<br>\r\n\r\n<a target=_blank href=https://repositorio.cepal.org/bitstream/handle/11362/44314/1/S1800852_es.pdf>Estimaciones de pobreza de la CEPAL</a></p>\r\n\r\n",
+            "comments": "<p>Estas cifras corresponden a una serie actualizada de estimaciones, presentada en el documento CEPAL (2018), Medición de la pobreza por ingresos: Actualización metodológica y resultados.  No son comparables con las cifras difundidas en las publicaciones de la CEPAL antes de 2017.</p>\r\n<p>Las cifras de pobreza estimadas por la CEPAL se calculan con el propósito de alcanzar el mayor grado de comparabilidad posible para diversos fines analíticos. Sus objetivos y usos son diferentes de los de las cifras nacionales, y en ningún caso buscan sustituirlas para describir los niveles y las tendencias de la pobreza en cada país.</p>\r\n",
+            "decimals": 1,
+            "last_update": "Dec 13 2022  3:52PM"
+        },
+        "data": [
+            {
+                "value": "40.9",
+                "source_id": 26,
+                "notes_ids": "86,923",
+                "iso3": "ARG",
+                "dim_208": 216,
+                "dim_29117": 29170,
+                "dim_1361": 1362,
+                "dim_1364": 1366
+            },
+            {
+                "value": "10.3",
+                "source_id": 26,
+                "notes_ids": "86,923",
+                "iso3": "ARG",
+                "dim_208": 216,
+                "dim_29117": 29170,
+                "dim_1361": 1363,
+                "dim_1364": 1366
+            },
+            {
+                "value": "46.7",
+                "source_id": 26,
+                "notes_ids": "86,923",
+                "iso3": "ARG",
+                "dim_208": 216,
+                "dim_29117": 29171,
+                "dim_1361": 1362,
+                "dim_1364": 1366
+            },
+            {
+                "value": "13.6",
+                "source_id": 26,
+                "notes_ids": "86,923",
+                "iso3": "ARG",
+                "dim_208": 216,
+                "dim_29117": 29171,
+                "dim_1361": 1363,
+                "dim_1364": 1366
+            },
+            {
+                "value": "62.4",
+                "source_id": 26,
+                "notes_ids": "86,923",
+                "iso3": "ARG",
+                "dim_208": 216,
+                "dim_29117": 29172,
+                "dim_1361": 1362,
+                "dim_1364": 1366
+            },
+            {
+                "value": "21.1",
+                "source_id": 26,
+                "notes_ids": "86,923",
+                "iso3": "ARG",
+                "dim_208": 216,
+                "dim_29117": 29172,
+                "dim_1361": 1363,
+                "dim_1364": 1366
+            },
+            {
+                "value": "50",
+                "source_id": 26,
+                "notes_ids": "86,337",
+                "iso3": "ARG",
+                "dim_208": 216,
+                "dim_29117": 29173,
+                "dim_1361": 1362,
+                "dim_1364": 1366
+            },
+            {
+                "value": "11.2",
+                "source_id": 26,
+                "notes_ids": "86,337",
+                "iso3": "ARG",
+                "dim_208": 216,
+                "dim_29117": 29173,
+                "dim_1361": 1363,
+                "dim_1364": 1366
+            },
+            {
+                "value": "43.1",
+                "source_id": 26,
+                "notes_ids": "86,337",
+                "iso3": "ARG",
+                "dim_208": 216,
+                "dim_29117": 29174,
+                "dim_1361": 1362,
+                "dim_1364": 1366
+            },
+            {
+                "value": "8",
+                "source_id": 26,
+                "notes_ids": "86,337",
+                "iso3": "ARG",
+                "dim_208": 216,
+                "dim_29117": 29174,
+                "dim_1361": 1363,
+                "dim_1364": 1366
+            },
+            {
+                "value": "37.9",
+                "source_id": 26,
+                "notes_ids": "86,337",
+                "iso3": "ARG",
+                "dim_208": 216,
+                "dim_29117": 29175,
+                "dim_1361": 1362,
+                "dim_1364": 1366
+            },
+            {
+                "value": "6.4",
+                "source_id": 26,
+                "notes_ids": "86,337",
+                "iso3": "ARG",
+                "dim_208": 216,
+                "dim_29117": 29175,
+                "dim_1361": 1363,
+                "dim_1364": 1366
+            },
+            {
+                "value": "31.4",
+                "source_id": 26,
+                "notes_ids": "86,337",
+                "iso3": "ARG",
+                "dim_208": 216,
+                "dim_29117": 29176,
+                "dim_1361": 1362,
+                "dim_1364": 1366
+            },
+            {
+                "value": "5.1",
+                "source_id": 26,
+                "notes_ids": "86,337",
+                "iso3": "ARG",
+                "dim_208": 216,
+                "dim_29117": 29176,
+                "dim_1361": 1363,
+                "dim_1364": 1366
+            },
+            {
+                "value": "30.3",
+                "source_id": 26,
+                "notes_ids": "86,337",
+                "iso3": "ARG",
+                "dim_208": 216,
+                "dim_29117": 29177,
+                "dim_1361": 1362,
+                "dim_1364": 1366
+            },
+            {
+                "value": "5.5",
+                "source_id": 26,
+                "notes_ids": "86,337",
+                "iso3": "ARG",
+                "dim_208": 216,
+                "dim_29117": 29177,
+                "dim_1361": 1363,
+                "dim_1364": 1366
+            },
+            {
+                "value": "27.1",
+                "source_id": 26,
+                "notes_ids": "86,337",
+                "iso3": "ARG",
+                "dim_208": 216,
+                "dim_29117": 29178,
+                "dim_1361": 1362,
+                "dim_1364": 1366
+            },
+            {
+                "value": "4.3",
+                "source_id": 26,
+                "notes_ids": "86,337",
+                "iso3": "ARG",
+                "dim_208": 216,
+                "dim_29117": 29178,
+                "dim_1361": 1363,
+                "dim_1364": 1366
+            },
+            {
+                "value": "24.6",
+                "source_id": 26,
+                "notes_ids": "86,337",
+                "iso3": "ARG",
+                "dim_208": 216,
+                "dim_29117": 29179,
+                "dim_1361": 1362,
+                "dim_1364": 1366
+            },
+            {
+                "value": "3.6",
+                "source_id": 26,
+                "notes_ids": "86,337",
+                "iso3": "ARG",
+                "dim_208": 216,
+                "dim_29117": 29179,
+                "dim_1361": 1363,
+                "dim_1364": 1366
+            },
+            {
+                "value": "26",
+                "source_id": 26,
+                "notes_ids": "86,337",
+                "iso3": "ARG",
+                "dim_208": 216,
+                "dim_29117": 29180,
+                "dim_1361": 1362,
+                "dim_1364": 1366
+            },
+            {
+                "value": "4",
+                "source_id": 26,
+                "notes_ids": "86,337",
+                "iso3": "ARG",
+                "dim_208": 216,
+                "dim_29117": 29180,
+                "dim_1361": 1363,
+                "dim_1364": 1366
+            },
+            {
+                "value": "23.4",
+                "source_id": 26,
+                "notes_ids": "86,337",
+                "iso3": "ARG",
+                "dim_208": 216,
+                "dim_29117": 29181,
+                "dim_1361": 1362,
+                "dim_1364": 1366
+            },
+            {
+                "value": "3",
+                "source_id": 26,
+                "notes_ids": "86,337",
+                "iso3": "ARG",
+                "dim_208": 216,
+                "dim_29117": 29181,
+                "dim_1361": 1363,
+                "dim_1364": 1366
+            },
+            {
+                "value": "21.8",
+                "source_id": 26,
+                "notes_ids": "86,337",
+                "iso3": "ARG",
+                "dim_208": 216,
+                "dim_29117": 29182,
+                "dim_1361": 1362,
+                "dim_1364": 1366
+            },
+            {
+                "value": "3.3",
+                "source_id": 26,
+                "notes_ids": "86,337",
+                "iso3": "ARG",
+                "dim_208": 216,
+                "dim_29117": 29182,
+                "dim_1361": 1363,
+                "dim_1364": 1366
+            },
+            {
+                "value": "22.1",
+                "source_id": 26,
+                "notes_ids": "86,337",
+                "iso3": "ARG",
+                "dim_208": 216,
+                "dim_29117": 29183,
+                "dim_1361": 1362,
+                "dim_1364": 1366
+            },
+            {
+                "value": "3.2",
+                "source_id": 26,
+                "notes_ids": "86,337",
+                "iso3": "ARG",
+                "dim_208": 216,
+                "dim_29117": 29183,
+                "dim_1361": 1363,
+                "dim_1364": 1366
+            },
+            {
+                "value": "24.9",
+                "source_id": 26,
+                "notes_ids": "86,337",
+                "iso3": "ARG",
+                "dim_208": 216,
+                "dim_29117": 29184,
+                "dim_1361": 1362,
+                "dim_1364": 1366
+            },
+            {
+                "value": "3.3",
+                "source_id": 26,
+                "notes_ids": "86,337",
+                "iso3": "ARG",
+                "dim_208": 216,
+                "dim_29117": 29184,
+                "dim_1361": 1363,
+                "dim_1364": 1366
+            },
+            {
+                "value": "21.5",
+                "source_id": 26,
+                "notes_ids": "86,337",
+                "iso3": "ARG",
+                "dim_208": 216,
+                "dim_29117": 29186,
+                "dim_1361": 1362,
+                "dim_1364": 1366
+            },
+            {
+                "value": "2.9",
+                "source_id": 26,
+                "notes_ids": "86,337",
+                "iso3": "ARG",
+                "dim_208": 216,
+                "dim_29117": 29186,
+                "dim_1361": 1363,
+                "dim_1364": 1366
+            },
+            {
+                "value": "18.7",
+                "source_id": 26,
+                "notes_ids": "86,337",
+                "iso3": "ARG",
+                "dim_208": 216,
+                "dim_29117": 29187,
+                "dim_1361": 1362,
+                "dim_1364": 1366
+            },
+            {
+                "value": "2.8",
+                "source_id": 26,
+                "notes_ids": "86,337",
+                "iso3": "ARG",
+                "dim_208": 216,
+                "dim_29117": 29187,
+                "dim_1361": 1363,
+                "dim_1364": 1366
+            },
+            {
+                "value": "24.4",
+                "source_id": 26,
+                "notes_ids": "86,337",
+                "iso3": "ARG",
+                "dim_208": 216,
+                "dim_29117": 29188,
+                "dim_1361": 1362,
+                "dim_1364": 1366
+            },
+            {
+                "value": "3.6",
+                "source_id": 26,
+                "notes_ids": "86,337",
+                "iso3": "ARG",
+                "dim_208": 216,
+                "dim_29117": 29188,
+                "dim_1361": 1363,
+                "dim_1364": 1366
+            },
+            {
+                "value": "27.2",
+                "source_id": 26,
+                "notes_ids": "86,337",
+                "iso3": "ARG",
+                "dim_208": 216,
+                "dim_29117": 29189,
+                "dim_1361": 1362,
+                "dim_1364": 1366
+            },
+            {
+                "value": "4.2",
+                "source_id": 26,
+                "notes_ids": "86,337",
+                "iso3": "ARG",
+                "dim_208": 216,
+                "dim_29117": 29189,
+                "dim_1361": 1363,
+                "dim_1364": 1366
+            },
+            {
+                "value": "34.2",
+                "source_id": 26,
+                "notes_ids": "86,337",
+                "iso3": "ARG",
+                "dim_208": 216,
+                "dim_29117": 29190,
+                "dim_1361": 1362,
+                "dim_1364": 1366
+            },
+            {
+                "value": "6",
+                "source_id": 26,
+                "notes_ids": "86,337",
+                "iso3": "ARG",
+                "dim_208": 216,
+                "dim_29117": 29190,
+                "dim_1361": 1363,
+                "dim_1364": 1366
+            },
+            {
+                "value": "27.9",
+                "source_id": 26,
+                "notes_ids": "86,337",
+                "iso3": "ARG",
+                "dim_208": 216,
+                "dim_29117": 29191,
+                "dim_1361": 1362,
+                "dim_1364": 1366
+            },
+            {
+                "value": "3.7",
+                "source_id": 26,
+                "notes_ids": "86,337",
+                "iso3": "ARG",
+                "dim_208": 216,
+                "dim_29117": 29191,
+                "dim_1361": 1363,
+                "dim_1364": 1366
+            },
+            {
+                "value": "35.1",
+                "source_id": 26,
+                "notes_ids": "8608",
+                "iso3": "BRA",
+                "dim_208": 222,
+                "dim_29117": 29171,
+                "dim_1361": 1362,
+                "dim_1364": 1366
+            },
+            {
+                "value": "5.6",
+                "source_id": 26,
+                "notes_ids": "8608",
+                "iso3": "BRA",
+                "dim_208": 222,
+                "dim_29117": 29171,
+                "dim_1361": 1363,
+                "dim_1364": 1366
+            },
+            {
+                "value": "34.6",
+                "source_id": 26,
+                "notes_ids": "8608",
+                "iso3": "BRA",
+                "dim_208": 222,
+                "dim_29117": 29172,
+                "dim_1361": 1362,
+                "dim_1364": 1366
+            },
+            {
+                "value": "4.8",
+                "source_id": 26,
+                "notes_ids": "8608",
+                "iso3": "BRA",
+                "dim_208": 222,
+                "dim_29117": 29172,
+                "dim_1361": 1363,
+                "dim_1364": 1366
+            },
+            {
+                "value": "36",
+                "source_id": 26,
+                "notes_ids": "8608",
+                "iso3": "BRA",
+                "dim_208": 222,
+                "dim_29117": 29173,
+                "dim_1361": 1362,
+                "dim_1364": 1366
+            },
+            {
+                "value": "5.9",
+                "source_id": 26,
+                "notes_ids": "8608",
+                "iso3": "BRA",
+                "dim_208": 222,
+                "dim_29117": 29173,
+                "dim_1361": 1363,
+                "dim_1364": 1366
+            },
+            {
+                "value": "33.8",
+                "source_id": 26,
+                "notes_ids": "8608",
+                "iso3": "BRA",
+                "dim_208": 222,
+                "dim_29117": 29174,
+                "dim_1361": 1362,
+                "dim_1364": 1366
+            },
+            {
+                "value": "4.9",
+                "source_id": 26,
+                "notes_ids": "8608",
+                "iso3": "BRA",
+                "dim_208": 222,
+                "dim_29117": 29174,
+                "dim_1361": 1363,
+                "dim_1364": 1366
+            },
+            {
+                "value": "31.4",
+                "source_id": 26,
+                "notes_ids": "8608",
+                "iso3": "BRA",
+                "dim_208": 222,
+                "dim_29117": 29175,
+                "dim_1361": 1362,
+                "dim_1364": 1366
+            },
+            {
+                "value": "3.9",
+                "source_id": 26,
+                "notes_ids": "8608",
+                "iso3": "BRA",
+                "dim_208": 222,
+                "dim_29117": 29175,
+                "dim_1361": 1363,
+                "dim_1364": 1366
+            },
+            {
+                "value": "26.2",
+                "source_id": 26,
+                "notes_ids": "8608",
+                "iso3": "BRA",
+                "dim_208": 222,
+                "dim_29117": 29176,
+                "dim_1361": 1362,
+                "dim_1364": 1366
+            },
+            {
+                "value": "3",
+                "source_id": 26,
+                "notes_ids": "8608",
+                "iso3": "BRA",
+                "dim_208": 222,
+                "dim_29117": 29176,
+                "dim_1361": 1363,
+                "dim_1364": 1366
+            },
+            {
+                "value": "24.9",
+                "source_id": 26,
+                "notes_ids": "8608",
+                "iso3": "BRA",
+                "dim_208": 222,
+                "dim_29117": 29177,
+                "dim_1361": 1362,
+                "dim_1364": 1366
+            },
+            {
+                "value": "3.7",
+                "source_id": 26,
+                "notes_ids": "8608",
+                "iso3": "BRA",
+                "dim_208": 222,
+                "dim_29117": 29177,
+                "dim_1361": 1363,
+                "dim_1364": 1366
+            },
+            {
+                "value": "22.5",
+                "source_id": 26,
+                "notes_ids": "8608",
+                "iso3": "BRA",
+                "dim_208": 222,
+                "dim_29117": 29178,
+                "dim_1361": 1362,
+                "dim_1364": 1366
+            },
+            {
+                "value": "3.2",
+                "source_id": 26,
+                "notes_ids": "8608",
+                "iso3": "BRA",
+                "dim_208": 222,
+                "dim_29117": 29178,
+                "dim_1361": 1363,
+                "dim_1364": 1366
+            },
+            {
+                "value": "21.5",
+                "source_id": 26,
+                "notes_ids": "8608",
+                "iso3": "BRA",
+                "dim_208": 222,
+                "dim_29117": 29179,
+                "dim_1361": 1362,
+                "dim_1364": 1366
+            },
+            {
+                "value": "3.3",
+                "source_id": 26,
+                "notes_ids": "8608",
+                "iso3": "BRA",
+                "dim_208": 222,
+                "dim_29117": 29179,
+                "dim_1361": 1363,
+                "dim_1364": 1366
+            },
+            {
+                "value": "18.8",
+                "source_id": 26,
+                "notes_ids": "8608",
+                "iso3": "BRA",
+                "dim_208": 222,
+                "dim_29117": 29181,
+                "dim_1361": 1362,
+                "dim_1364": 1366
+            },
+            {
+                "value": "3.4",
+                "source_id": 26,
+                "notes_ids": "8608",
+                "iso3": "BRA",
+                "dim_208": 222,
+                "dim_29117": 29181,
+                "dim_1361": 1363,
+                "dim_1364": 1366
+            },
+            {
+                "value": "16.4",
+                "source_id": 26,
+                "notes_ids": "8608",
+                "iso3": "BRA",
+                "dim_208": 222,
+                "dim_29117": 29182,
+                "dim_1361": 1362,
+                "dim_1364": 1366
+            },
+            {
+                "value": "3.1",
+                "source_id": 26,
+                "notes_ids": "8608",
+                "iso3": "BRA",
+                "dim_208": 222,
+                "dim_29117": 29182,
+                "dim_1361": 1363,
+                "dim_1364": 1366
+            },
+            {
+                "value": "16.1",
+                "source_id": 26,
+                "notes_ids": "8608",
+                "iso3": "BRA",
+                "dim_208": 222,
+                "dim_29117": 29183,
+                "dim_1361": 1362,
+                "dim_1364": 1366
+            },
+            {
+                "value": "3.6",
+                "source_id": 26,
+                "notes_ids": "8608",
+                "iso3": "BRA",
+                "dim_208": 222,
+                "dim_29117": 29183,
+                "dim_1361": 1363,
+                "dim_1364": 1366
+            },
+            {
+                "value": "14.7",
+                "source_id": 26,
+                "notes_ids": "8608",
+                "iso3": "BRA",
+                "dim_208": 222,
+                "dim_29117": 29184,
+                "dim_1361": 1362,
+                "dim_1364": 1366
+            },
+            {
+                "value": "2.6",
+                "source_id": 26,
+                "notes_ids": "8608",
+                "iso3": "BRA",
+                "dim_208": 222,
+                "dim_29117": 29184,
+                "dim_1361": 1363,
+                "dim_1364": 1366
+            },
+            {
+                "value": "17",
+                "source_id": 26,
+                "notes_ids": "8608",
+                "iso3": "BRA",
+                "dim_208": 222,
+                "dim_29117": 29185,
+                "dim_1361": 1362,
+                "dim_1364": 1366
+            },
+            {
+                "value": "3.1",
+                "source_id": 26,
+                "notes_ids": "8608",
+                "iso3": "BRA",
+                "dim_208": 222,
+                "dim_29117": 29185,
+                "dim_1361": 1363,
+                "dim_1364": 1366
+            },
+            {
+                "value": "18.8",
+                "source_id": 26,
+                "notes_ids": "8609",
+                "iso3": "BRA",
+                "dim_208": 222,
+                "dim_29117": 29186,
+                "dim_1361": 1362,
+                "dim_1364": 1366
+            },
+            {
+                "value": "4.1",
+                "source_id": 26,
+                "notes_ids": "8609",
+                "iso3": "BRA",
+                "dim_208": 222,
+                "dim_29117": 29186,
+                "dim_1361": 1363,
+                "dim_1364": 1366
+            },
+            {
+                "value": "19.1",
+                "source_id": 26,
+                "notes_ids": "8609",
+                "iso3": "BRA",
+                "dim_208": 222,
+                "dim_29117": 29187,
+                "dim_1361": 1362,
+                "dim_1364": 1366
+            },
+            {
+                "value": "4.4",
+                "source_id": 26,
+                "notes_ids": "8609",
+                "iso3": "BRA",
+                "dim_208": 222,
+                "dim_29117": 29187,
+                "dim_1361": 1363,
+                "dim_1364": 1366
+            },
+            {
+                "value": "18.2",
+                "source_id": 26,
+                "notes_ids": "8609",
+                "iso3": "BRA",
+                "dim_208": 222,
+                "dim_29117": 29188,
+                "dim_1361": 1362,
+                "dim_1364": 1366
+            },
+            {
+                "value": "4.2",
+                "source_id": 26,
+                "notes_ids": "8609",
+                "iso3": "BRA",
+                "dim_208": 222,
+                "dim_29117": 29188,
+                "dim_1361": 1363,
+                "dim_1364": 1366
+            },
+            {
+                "value": "18",
+                "source_id": 26,
+                "notes_ids": "8609",
+                "iso3": "BRA",
+                "dim_208": 222,
+                "dim_29117": 29189,
+                "dim_1361": 1362,
+                "dim_1364": 1366
+            },
+            {
+                "value": "4.4",
+                "source_id": 26,
+                "notes_ids": "8609",
+                "iso3": "BRA",
+                "dim_208": 222,
+                "dim_29117": 29189,
+                "dim_1361": 1363,
+                "dim_1364": 1366
+            },
+            {
+                "value": "17.1",
+                "source_id": 26,
+                "notes_ids": "8609",
+                "iso3": "BRA",
+                "dim_208": 222,
+                "dim_29117": 29190,
+                "dim_1361": 1362,
+                "dim_1364": 1366
+            },
+            {
+                "value": "4.2",
+                "source_id": 26,
+                "notes_ids": "8609",
+                "iso3": "BRA",
+                "dim_208": 222,
+                "dim_29117": 29190,
+                "dim_1361": 1363,
+                "dim_1364": 1366
+            },
+            {
+                "value": "22.6",
+                "source_id": 26,
+                "notes_ids": "8609",
+                "iso3": "BRA",
+                "dim_208": 222,
+                "dim_29117": 29191,
+                "dim_1361": 1362,
+                "dim_1364": 1366
+            },
+            {
+                "value": "6.9",
+                "source_id": 26,
+                "notes_ids": "8609",
+                "iso3": "BRA",
+                "dim_208": 222,
+                "dim_29117": 29191,
+                "dim_1361": 1363,
+                "dim_1364": 1366
+            },
+            {
+                "value": "41",
+                "source_id": 26,
+                "notes_ids": "",
+                "iso3": "CHL",
+                "dim_208": 224,
+                "dim_29117": 29170,
+                "dim_1361": 1362,
+                "dim_1364": 1366
+            },
+            {
+                "value": "5.3",
+                "source_id": 26,
+                "notes_ids": "",
+                "iso3": "CHL",
+                "dim_208": 224,
+                "dim_29117": 29170,
+                "dim_1361": 1363,
+                "dim_1364": 1366
+            },
+            {
+                "value": "38.7",
+                "source_id": 26,
+                "notes_ids": "",
+                "iso3": "CHL",
+                "dim_208": 224,
+                "dim_29117": 29173,
+                "dim_1361": 1362,
+                "dim_1364": 1366
+            },
+            {
+                "value": "4.9",
+                "source_id": 26,
+                "notes_ids": "",
+                "iso3": "CHL",
+                "dim_208": 224,
+                "dim_29117": 29173,
+                "dim_1361": 1363,
+                "dim_1364": 1366
+            },
+            {
+                "value": "35.1",
+                "source_id": 26,
+                "notes_ids": "",
+                "iso3": "CHL",
+                "dim_208": 224,
+                "dim_29117": 29176,
+                "dim_1361": 1362,
+                "dim_1364": 1366
+            },
+            {
+                "value": "3.5",
+                "source_id": 26,
+                "notes_ids": "",
+                "iso3": "CHL",
+                "dim_208": 224,
+                "dim_29117": 29176,
+                "dim_1361": 1363,
+                "dim_1364": 1366
+            },
+            {
+                "value": "28.9",
+                "source_id": 26,
+                "notes_ids": "",
+                "iso3": "CHL",
+                "dim_208": 224,
+                "dim_29117": 29179,
+                "dim_1361": 1362,
+                "dim_1364": 1366
+            },
+            {
+                "value": "3.4",
+                "source_id": 26,
+                "notes_ids": "",
+                "iso3": "CHL",
+                "dim_208": 224,
+                "dim_29117": 29179,
+                "dim_1361": 1363,
+                "dim_1364": 1366
+            },
+            {
+                "value": "25.3",
+                "source_id": 26,
+                "notes_ids": "",
+                "iso3": "CHL",
+                "dim_208": 224,
+                "dim_29117": 29181,
+                "dim_1361": 1362,
+                "dim_1364": 1366
+            },
+            {
+                "value": "3",
+                "source_id": 26,
+                "notes_ids": "",
+                "iso3": "CHL",
+                "dim_208": 224,
+                "dim_29117": 29181,
+                "dim_1361": 1363,
+                "dim_1364": 1366
+            },
+            {
+                "value": "16.2",
+                "source_id": 26,
+                "notes_ids": "",
+                "iso3": "CHL",
+                "dim_208": 224,
+                "dim_29117": 29183,
+                "dim_1361": 1362,
+                "dim_1364": 1366
+            },
+            {
+                "value": "1.9",
+                "source_id": 26,
+                "notes_ids": "",
+                "iso3": "CHL",
+                "dim_208": 224,
+                "dim_29117": 29183,
+                "dim_1361": 1363,
+                "dim_1364": 1366
+            },
+            {
+                "value": "13.9",
+                "source_id": 26,
+                "notes_ids": "",
+                "iso3": "CHL",
+                "dim_208": 224,
+                "dim_29117": 29185,
+                "dim_1361": 1362,
+                "dim_1364": 1366
+            },
+            {
+                "value": "1.7",
+                "source_id": 26,
+                "notes_ids": "",
+                "iso3": "CHL",
+                "dim_208": 224,
+                "dim_29117": 29185,
+                "dim_1361": 1363,
+                "dim_1364": 1366
+            },
+            {
+                "value": "10.9",
+                "source_id": 26,
+                "notes_ids": "",
+                "iso3": "CHL",
+                "dim_208": 224,
+                "dim_29117": 29187,
+                "dim_1361": 1362,
+                "dim_1364": 1366
+            },
+            {
+                "value": "1.4",
+                "source_id": 26,
+                "notes_ids": "",
+                "iso3": "CHL",
+                "dim_208": 224,
+                "dim_29117": 29187,
+                "dim_1361": 1363,
+                "dim_1364": 1366
+            },
+            {
+                "value": "14.7",
+                "source_id": 26,
+                "notes_ids": "",
+                "iso3": "CHL",
+                "dim_208": 224,
+                "dim_29117": 29190,
+                "dim_1361": 1362,
+                "dim_1364": 1366
+            },
+            {
+                "value": "4.4",
+                "source_id": 26,
+                "notes_ids": "",
+                "iso3": "CHL",
+                "dim_208": 224,
+                "dim_29117": 29190,
+                "dim_1361": 1363,
+                "dim_1364": 1366
+            },
+            {
+                "value": "34.3",
+                "source_id": 26,
+                "notes_ids": "8647",
+                "iso3": "PER",
+                "dim_208": 244,
+                "dim_29117": 29171,
+                "dim_1361": 1362,
+                "dim_1364": 1366
+            },
+            {
+                "value": "7.3",
+                "source_id": 26,
+                "notes_ids": "8647",
+                "iso3": "PER",
+                "dim_208": 244,
+                "dim_29117": 29171,
+                "dim_1361": 1363,
+                "dim_1364": 1366
+            },
+            {
+                "value": "31.9",
+                "source_id": 26,
+                "notes_ids": "8647",
+                "iso3": "PER",
+                "dim_208": 244,
+                "dim_29117": 29172,
+                "dim_1361": 1362,
+                "dim_1364": 1366
+            },
+            {
+                "value": "5.3",
+                "source_id": 26,
+                "notes_ids": "8647",
+                "iso3": "PER",
+                "dim_208": 244,
+                "dim_29117": 29172,
+                "dim_1361": 1363,
+                "dim_1364": 1366
+            },
+            {
+                "value": "54",
+                "source_id": 26,
+                "notes_ids": "8648",
+                "iso3": "PER",
+                "dim_208": 244,
+                "dim_29117": 29173,
+                "dim_1361": 1362,
+                "dim_1364": 1366
+            },
+            {
+                "value": "14.5",
+                "source_id": 26,
+                "notes_ids": "8648",
+                "iso3": "PER",
+                "dim_208": 244,
+                "dim_29117": 29173,
+                "dim_1361": 1363,
+                "dim_1364": 1366
+            },
+            {
+                "value": "32.1",
+                "source_id": 26,
+                "notes_ids": "8649",
+                "iso3": "PER",
+                "dim_208": 244,
+                "dim_29117": 29174,
+                "dim_1361": 1362,
+                "dim_1364": 1366
+            },
+            {
+                "value": "6",
+                "source_id": 26,
+                "notes_ids": "8649",
+                "iso3": "PER",
+                "dim_208": 244,
+                "dim_29117": 29174,
+                "dim_1361": 1363,
+                "dim_1364": 1366
+            },
+            {
+                "value": "36.5",
+                "source_id": 26,
+                "notes_ids": "8649",
+                "iso3": "PER",
+                "dim_208": 244,
+                "dim_29117": 29175,
+                "dim_1361": 1362,
+                "dim_1364": 1366
+            },
+            {
+                "value": "7.4",
+                "source_id": 26,
+                "notes_ids": "8649",
+                "iso3": "PER",
+                "dim_208": 244,
+                "dim_29117": 29175,
+                "dim_1361": 1363,
+                "dim_1364": 1366
+            },
+            {
+                "value": "30.1",
+                "source_id": 26,
+                "notes_ids": "8649",
+                "iso3": "PER",
+                "dim_208": 244,
+                "dim_29117": 29176,
+                "dim_1361": 1362,
+                "dim_1364": 1366
+            },
+            {
+                "value": "5.4",
+                "source_id": 26,
+                "notes_ids": "8649",
+                "iso3": "PER",
+                "dim_208": 244,
+                "dim_29117": 29176,
+                "dim_1361": 1363,
+                "dim_1364": 1366
+            },
+            {
+                "value": "24.5",
+                "source_id": 26,
+                "notes_ids": "8649",
+                "iso3": "PER",
+                "dim_208": 244,
+                "dim_29117": 29177,
+                "dim_1361": 1362,
+                "dim_1364": 1366
+            },
+            {
+                "value": "3.9",
+                "source_id": 26,
+                "notes_ids": "8649",
+                "iso3": "PER",
+                "dim_208": 244,
+                "dim_29117": 29177,
+                "dim_1361": 1363,
+                "dim_1364": 1366
+            },
+            {
+                "value": "21.4",
+                "source_id": 26,
+                "notes_ids": "8649",
+                "iso3": "PER",
+                "dim_208": 244,
+                "dim_29117": 29178,
+                "dim_1361": 1362,
+                "dim_1364": 1366
+            },
+            {
+                "value": "3.9",
+                "source_id": 26,
+                "notes_ids": "8649",
+                "iso3": "PER",
+                "dim_208": 244,
+                "dim_29117": 29178,
+                "dim_1361": 1363,
+                "dim_1364": 1366
+            },
+            {
+                "value": "19.7",
+                "source_id": 26,
+                "notes_ids": "8649",
+                "iso3": "PER",
+                "dim_208": 244,
+                "dim_29117": 29179,
+                "dim_1361": 1362,
+                "dim_1364": 1366
+            },
+            {
+                "value": "3.1",
+                "source_id": 26,
+                "notes_ids": "8649",
+                "iso3": "PER",
+                "dim_208": 244,
+                "dim_29117": 29179,
+                "dim_1361": 1363,
+                "dim_1364": 1366
+            },
+            {
+                "value": "16.2",
+                "source_id": 26,
+                "notes_ids": "8649",
+                "iso3": "PER",
+                "dim_208": 244,
+                "dim_29117": 29180,
+                "dim_1361": 1362,
+                "dim_1364": 1366
+            },
+            {
+                "value": "2.7",
+                "source_id": 26,
+                "notes_ids": "8649",
+                "iso3": "PER",
+                "dim_208": 244,
+                "dim_29117": 29180,
+                "dim_1361": 1363,
+                "dim_1364": 1366
+            },
+            {
+                "value": "15",
+                "source_id": 26,
+                "notes_ids": "8649",
+                "iso3": "PER",
+                "dim_208": 244,
+                "dim_29117": 29181,
+                "dim_1361": 1362,
+                "dim_1364": 1366
+            },
+            {
+                "value": "2.3",
+                "source_id": 26,
+                "notes_ids": "8649",
+                "iso3": "PER",
+                "dim_208": 244,
+                "dim_29117": 29181,
+                "dim_1361": 1363,
+                "dim_1364": 1366
+            },
+            {
+                "value": "13.3",
+                "source_id": 26,
+                "notes_ids": "8649",
+                "iso3": "PER",
+                "dim_208": 244,
+                "dim_29117": 29182,
+                "dim_1361": 1362,
+                "dim_1364": 1366
+            },
+            {
+                "value": "1.9",
+                "source_id": 26,
+                "notes_ids": "8649",
+                "iso3": "PER",
+                "dim_208": 244,
+                "dim_29117": 29182,
+                "dim_1361": 1363,
+                "dim_1364": 1366
+            },
+            {
+                "value": "13.4",
+                "source_id": 26,
+                "notes_ids": "8649",
+                "iso3": "PER",
+                "dim_208": 244,
+                "dim_29117": 29183,
+                "dim_1361": 1362,
+                "dim_1364": 1366
+            },
+            {
+                "value": "2",
+                "source_id": 26,
+                "notes_ids": "8649",
+                "iso3": "PER",
+                "dim_208": 244,
+                "dim_29117": 29183,
+                "dim_1361": 1363,
+                "dim_1364": 1366
+            },
+            {
+                "value": "12.8",
+                "source_id": 26,
+                "notes_ids": "8649",
+                "iso3": "PER",
+                "dim_208": 244,
+                "dim_29117": 29184,
+                "dim_1361": 1362,
+                "dim_1364": 1366
+            },
+            {
+                "value": "1.9",
+                "source_id": 26,
+                "notes_ids": "8649",
+                "iso3": "PER",
+                "dim_208": 244,
+                "dim_29117": 29184,
+                "dim_1361": 1363,
+                "dim_1364": 1366
+            },
+            {
+                "value": "12.3",
+                "source_id": 26,
+                "notes_ids": "8649",
+                "iso3": "PER",
+                "dim_208": 244,
+                "dim_29117": 29185,
+                "dim_1361": 1362,
+                "dim_1364": 1366
+            },
+            {
+                "value": "2",
+                "source_id": 26,
+                "notes_ids": "8649",
+                "iso3": "PER",
+                "dim_208": 244,
+                "dim_29117": 29185,
+                "dim_1361": 1363,
+                "dim_1364": 1366
+            },
+            {
+                "value": "12.9",
+                "source_id": 26,
+                "notes_ids": "8649",
+                "iso3": "PER",
+                "dim_208": 244,
+                "dim_29117": 29186,
+                "dim_1361": 1362,
+                "dim_1364": 1366
+            },
+            {
+                "value": "1.9",
+                "source_id": 26,
+                "notes_ids": "8649",
+                "iso3": "PER",
+                "dim_208": 244,
+                "dim_29117": 29186,
+                "dim_1361": 1363,
+                "dim_1364": 1366
+            },
+            {
+                "value": "12.4",
+                "source_id": 26,
+                "notes_ids": "8649",
+                "iso3": "PER",
+                "dim_208": 244,
+                "dim_29117": 29187,
+                "dim_1361": 1362,
+                "dim_1364": 1366
+            },
+            {
+                "value": "1.7",
+                "source_id": 26,
+                "notes_ids": "8649",
+                "iso3": "PER",
+                "dim_208": 244,
+                "dim_29117": 29187,
+                "dim_1361": 1363,
+                "dim_1364": 1366
+            },
+            {
+                "value": "11.7",
+                "source_id": 26,
+                "notes_ids": "8649",
+                "iso3": "PER",
+                "dim_208": 244,
+                "dim_29117": 29188,
+                "dim_1361": 1362,
+                "dim_1364": 1366
+            },
+            {
+                "value": "1.5",
+                "source_id": 26,
+                "notes_ids": "8649",
+                "iso3": "PER",
+                "dim_208": 244,
+                "dim_29117": 29188,
+                "dim_1361": 1363,
+                "dim_1364": 1366
+            },
+            {
+                "value": "11",
+                "source_id": 26,
+                "notes_ids": "8649",
+                "iso3": "PER",
+                "dim_208": 244,
+                "dim_29117": 29189,
+                "dim_1361": 1362,
+                "dim_1364": 1366
+            },
+            {
+                "value": "1.2",
+                "source_id": 26,
+                "notes_ids": "8649",
+                "iso3": "PER",
+                "dim_208": 244,
+                "dim_29117": 29189,
+                "dim_1361": 1363,
+                "dim_1364": 1366
+            },
+            {
+                "value": "25.8",
+                "source_id": 26,
+                "notes_ids": "8649",
+                "iso3": "PER",
+                "dim_208": 244,
+                "dim_29117": 29190,
+                "dim_1361": 1362,
+                "dim_1364": 1366
+            },
+            {
+                "value": "7.8",
+                "source_id": 26,
+                "notes_ids": "8649",
+                "iso3": "PER",
+                "dim_208": 244,
+                "dim_29117": 29190,
+                "dim_1361": 1363,
+                "dim_1364": 1366
+            },
+            {
+                "value": "16.5",
+                "source_id": 26,
+                "notes_ids": "8649",
+                "iso3": "PER",
+                "dim_208": 244,
+                "dim_29117": 29191,
+                "dim_1361": 1362,
+                "dim_1364": 1366
+            },
+            {
+                "value": "2.7",
+                "source_id": 26,
+                "notes_ids": "8649",
+                "iso3": "PER",
+                "dim_208": 244,
+                "dim_29117": 29191,
+                "dim_1361": 1363,
+                "dim_1364": 1366
+            },
+            {
+                "value": "10.9",
+                "source_id": 26,
+                "notes_ids": "",
+                "iso3": "URY",
+                "dim_208": 258,
+                "dim_29117": 29170,
+                "dim_1361": 1362,
+                "dim_1364": 1366
+            },
+            {
+                "value": "1.2",
+                "source_id": 26,
+                "notes_ids": "",
+                "iso3": "URY",
+                "dim_208": 258,
+                "dim_29117": 29170,
+                "dim_1361": 1363,
+                "dim_1364": 1366
+            },
+            {
+                "value": "16.1",
+                "source_id": 26,
+                "notes_ids": "",
+                "iso3": "URY",
+                "dim_208": 258,
+                "dim_29117": 29171,
+                "dim_1361": 1362,
+                "dim_1364": 1366
+            },
+            {
+                "value": "2.8",
+                "source_id": 26,
+                "notes_ids": "",
+                "iso3": "URY",
+                "dim_208": 258,
+                "dim_29117": 29171,
+                "dim_1361": 1363,
+                "dim_1364": 1366
+            },
+            {
+                "value": "20.7",
+                "source_id": 26,
+                "notes_ids": "",
+                "iso3": "URY",
+                "dim_208": 258,
+                "dim_29117": 29172,
+                "dim_1361": 1362,
+                "dim_1364": 1366
+            },
+            {
+                "value": "4.3",
+                "source_id": 26,
+                "notes_ids": "",
+                "iso3": "URY",
+                "dim_208": 258,
+                "dim_29117": 29172,
+                "dim_1361": 1363,
+                "dim_1364": 1366
+            },
+            {
+                "value": "27.3",
+                "source_id": 26,
+                "notes_ids": "",
+                "iso3": "URY",
+                "dim_208": 258,
+                "dim_29117": 29173,
+                "dim_1361": 1362,
+                "dim_1364": 1366
+            },
+            {
+                "value": "5.9",
+                "source_id": 26,
+                "notes_ids": "",
+                "iso3": "URY",
+                "dim_208": 258,
+                "dim_29117": 29173,
+                "dim_1361": 1363,
+                "dim_1364": 1366
+            },
+            {
+                "value": "27.7",
+                "source_id": 26,
+                "notes_ids": "",
+                "iso3": "URY",
+                "dim_208": 258,
+                "dim_29117": 29174,
+                "dim_1361": 1362,
+                "dim_1364": 1366
+            },
+            {
+                "value": "5.7",
+                "source_id": 26,
+                "notes_ids": "",
+                "iso3": "URY",
+                "dim_208": 258,
+                "dim_29117": 29174,
+                "dim_1361": 1363,
+                "dim_1364": 1366
+            },
+            {
+                "value": "25.7",
+                "source_id": 26,
+                "notes_ids": "",
+                "iso3": "URY",
+                "dim_208": 258,
+                "dim_29117": 29175,
+                "dim_1361": 1362,
+                "dim_1364": 1366
+            },
+            {
+                "value": "4.7",
+                "source_id": 26,
+                "notes_ids": "",
+                "iso3": "URY",
+                "dim_208": 258,
+                "dim_29117": 29175,
+                "dim_1361": 1363,
+                "dim_1364": 1366
+            },
+            {
+                "value": "19.4",
+                "source_id": 26,
+                "notes_ids": "",
+                "iso3": "URY",
+                "dim_208": 258,
+                "dim_29117": 29177,
+                "dim_1361": 1362,
+                "dim_1364": 1366
+            },
+            {
+                "value": "2.7",
+                "source_id": 26,
+                "notes_ids": "",
+                "iso3": "URY",
+                "dim_208": 258,
+                "dim_29117": 29177,
+                "dim_1361": 1363,
+                "dim_1364": 1366
+            },
+            {
+                "value": "14.3",
+                "source_id": 26,
+                "notes_ids": "",
+                "iso3": "URY",
+                "dim_208": 258,
+                "dim_29117": 29178,
+                "dim_1361": 1362,
+                "dim_1364": 1366
+            },
+            {
+                "value": "1.2",
+                "source_id": 26,
+                "notes_ids": "",
+                "iso3": "URY",
+                "dim_208": 258,
+                "dim_29117": 29178,
+                "dim_1361": 1363,
+                "dim_1364": 1366
+            },
+            {
+                "value": "11.6",
+                "source_id": 26,
+                "notes_ids": "",
+                "iso3": "URY",
+                "dim_208": 258,
+                "dim_29117": 29179,
+                "dim_1361": 1362,
+                "dim_1364": 1366
+            },
+            {
+                "value": "0.7",
+                "source_id": 26,
+                "notes_ids": "",
+                "iso3": "URY",
+                "dim_208": 258,
+                "dim_29117": 29179,
+                "dim_1361": 1363,
+                "dim_1364": 1366
+            },
+            {
+                "value": "9.8",
+                "source_id": 26,
+                "notes_ids": "",
+                "iso3": "URY",
+                "dim_208": 258,
+                "dim_29117": 29180,
+                "dim_1361": 1362,
+                "dim_1364": 1366
+            },
+            {
+                "value": "0.5",
+                "source_id": 26,
+                "notes_ids": "",
+                "iso3": "URY",
+                "dim_208": 258,
+                "dim_29117": 29180,
+                "dim_1361": 1363,
+                "dim_1364": 1366
+            },
+            {
+                "value": "7",
+                "source_id": 26,
+                "notes_ids": "",
+                "iso3": "URY",
+                "dim_208": 258,
+                "dim_29117": 29181,
+                "dim_1361": 1362,
+                "dim_1364": 1366
+            },
+            {
+                "value": "0.3",
+                "source_id": 26,
+                "notes_ids": "",
+                "iso3": "URY",
+                "dim_208": 258,
+                "dim_29117": 29181,
+                "dim_1361": 1363,
+                "dim_1364": 1366
+            },
+            {
+                "value": "6.2",
+                "source_id": 26,
+                "notes_ids": "",
+                "iso3": "URY",
+                "dim_208": 258,
+                "dim_29117": 29182,
+                "dim_1361": 1362,
+                "dim_1364": 1366
+            },
+            {
+                "value": "0.3",
+                "source_id": 26,
+                "notes_ids": "",
+                "iso3": "URY",
+                "dim_208": 258,
+                "dim_29117": 29182,
+                "dim_1361": 1363,
+                "dim_1364": 1366
+            },
+            {
+                "value": "5.9",
+                "source_id": 26,
+                "notes_ids": "",
+                "iso3": "URY",
+                "dim_208": 258,
+                "dim_29117": 29183,
+                "dim_1361": 1362,
+                "dim_1364": 1366
+            },
+            {
+                "value": "0.3",
+                "source_id": 26,
+                "notes_ids": "",
+                "iso3": "URY",
+                "dim_208": 258,
+                "dim_29117": 29183,
+                "dim_1361": 1363,
+                "dim_1364": 1366
+            },
+            {
+                "value": "4.5",
+                "source_id": 26,
+                "notes_ids": "",
+                "iso3": "URY",
+                "dim_208": 258,
+                "dim_29117": 29184,
+                "dim_1361": 1362,
+                "dim_1364": 1366
+            },
+            {
+                "value": "0.2",
+                "source_id": 26,
+                "notes_ids": "",
+                "iso3": "URY",
+                "dim_208": 258,
+                "dim_29117": 29184,
+                "dim_1361": 1363,
+                "dim_1364": 1366
+            },
+            {
+                "value": "4.2",
+                "source_id": 26,
+                "notes_ids": "",
+                "iso3": "URY",
+                "dim_208": 258,
+                "dim_29117": 29185,
+                "dim_1361": 1362,
+                "dim_1364": 1366
+            },
+            {
+                "value": "0.2",
+                "source_id": 26,
+                "notes_ids": "",
+                "iso3": "URY",
+                "dim_208": 258,
+                "dim_29117": 29185,
+                "dim_1361": 1363,
+                "dim_1364": 1366
+            },
+            {
+                "value": "3.7",
+                "source_id": 26,
+                "notes_ids": "",
+                "iso3": "URY",
+                "dim_208": 258,
+                "dim_29117": 29186,
+                "dim_1361": 1362,
+                "dim_1364": 1366
+            },
+            {
+                "value": "0.2",
+                "source_id": 26,
+                "notes_ids": "",
+                "iso3": "URY",
+                "dim_208": 258,
+                "dim_29117": 29186,
+                "dim_1361": 1363,
+                "dim_1364": 1366
+            },
+            {
+                "value": "2.7",
+                "source_id": 26,
+                "notes_ids": "",
+                "iso3": "URY",
+                "dim_208": 258,
+                "dim_29117": 29187,
+                "dim_1361": 1362,
+                "dim_1364": 1366
+            },
+            {
+                "value": "0.1",
+                "source_id": 26,
+                "notes_ids": "",
+                "iso3": "URY",
+                "dim_208": 258,
+                "dim_29117": 29187,
+                "dim_1361": 1363,
+                "dim_1364": 1366
+            },
+            {
+                "value": "3",
+                "source_id": 26,
+                "notes_ids": "",
+                "iso3": "URY",
+                "dim_208": 258,
+                "dim_29117": 29188,
+                "dim_1361": 1362,
+                "dim_1364": 1366
+            },
+            {
+                "value": "0.1",
+                "source_id": 26,
+                "notes_ids": "",
+                "iso3": "URY",
+                "dim_208": 258,
+                "dim_29117": 29188,
+                "dim_1361": 1363,
+                "dim_1364": 1366
+            },
+            {
+                "value": "3",
+                "source_id": 26,
+                "notes_ids": "",
+                "iso3": "URY",
+                "dim_208": 258,
+                "dim_29117": 29189,
+                "dim_1361": 1362,
+                "dim_1364": 1366
+            },
+            {
+                "value": "0.1",
+                "source_id": 26,
+                "notes_ids": "",
+                "iso3": "URY",
+                "dim_208": 258,
+                "dim_29117": 29189,
+                "dim_1361": 1363,
+                "dim_1364": 1366
+            },
+            {
+                "value": "4.8",
+                "source_id": 26,
+                "notes_ids": "",
+                "iso3": "URY",
+                "dim_208": 258,
+                "dim_29117": 29190,
+                "dim_1361": 1362,
+                "dim_1364": 1366
+            },
+            {
+                "value": "0.3",
+                "source_id": 26,
+                "notes_ids": "",
+                "iso3": "URY",
+                "dim_208": 258,
+                "dim_29117": 29190,
+                "dim_1361": 1363,
+                "dim_1364": 1366
+            },
+            {
+                "value": "4.9",
+                "source_id": 26,
+                "notes_ids": "",
+                "iso3": "URY",
+                "dim_208": 258,
+                "dim_29117": 29191,
+                "dim_1361": 1362,
+                "dim_1364": 1366
+            },
+            {
+                "value": "0.1",
+                "source_id": 26,
+                "notes_ids": "",
+                "iso3": "URY",
+                "dim_208": 258,
+                "dim_29117": 29191,
+                "dim_1361": 1363,
+                "dim_1364": 1366
+            }
+        ],
+        "dimensions": [
+            {
+                "id": 208,
+                "name": "País__ESTANDAR",
+                "order": 0,
+                "position": 2,
+                "members": [
+                    {
+                        "name": "Argentina",
+                        "id": 216,
+                        "in": 1,
+                        "order": 40,
+                        "parent": 208,
+                        "selected": 1
+                    },
+                    {
+                        "name": "Brasil",
+                        "id": 222,
+                        "in": 1,
+                        "order": 100,
+                        "parent": 208,
+                        "selected": 1
+                    },
+                    {
+                        "name": "Chile",
+                        "id": 224,
+                        "in": 1,
+                        "order": 110,
+                        "parent": 208,
+                        "selected": 1
+                    },
+                    {
+                        "name": "Peru",
+                        "id": 244,
+                        "in": 1,
+                        "order": 310,
+                        "parent": 208,
+                        "selected": 1
+                    },
+                    {
+                        "name": "Uruguay",
+                        "id": 258,
+                        "in": 1,
+                        "order": 390,
+                        "parent": 208,
+                        "selected": 1
+                    }
+                ]
+            },
+            {
+                "id": 1361,
+                "name": "Pobreza extrema y pobreza",
+                "order": 2,
+                "position": 3,
+                "members": [
+                    {
+                        "name": "Pobreza",
+                        "id": 1362,
+                        "in": 1,
+                        "order": 2,
+                        "parent": 1361,
+                        "selected": 1
+                    },
+                    {
+                        "name": "Pobreza extrema",
+                        "id": 1363,
+                        "in": 1,
+                        "order": 1,
+                        "parent": 1361,
+                        "selected": 1
+                    }
+                ]
+            },
+            {
+                "id": 1364,
+                "name": "Area geográfica_(EH)",
+                "order": 3,
+                "position": 3,
+                "members": [
+                    {
+                        "name": "Total del área urbana",
+                        "id": 1366,
+                        "in": 1,
+                        "order": 20,
+                        "parent": 1365,
+                        "selected": 1
+                    }
+                ]
+            },
+            {
+                "id": 29117,
+                "name": "Años__ESTANDAR",
+                "order": 1,
+                "position": 2,
+                "members": [
+                    {
+                        "name": "2000",
+                        "id": 29170,
+                        "in": 1,
+                        "order": 2000,
+                        "parent": 29117,
+                        "selected": 1
+                    },
+                    {
+                        "name": "2001",
+                        "id": 29171,
+                        "in": 1,
+                        "order": 2001,
+                        "parent": 29117,
+                        "selected": 1
+                    },
+                    {
+                        "name": "2002",
+                        "id": 29172,
+                        "in": 1,
+                        "order": 2002,
+                        "parent": 29117,
+                        "selected": 1
+                    },
+                    {
+                        "name": "2003",
+                        "id": 29173,
+                        "in": 1,
+                        "order": 2003,
+                        "parent": 29117,
+                        "selected": 1
+                    },
+                    {
+                        "name": "2004",
+                        "id": 29174,
+                        "in": 1,
+                        "order": 2004,
+                        "parent": 29117,
+                        "selected": 1
+                    },
+                    {
+                        "name": "2005",
+                        "id": 29175,
+                        "in": 1,
+                        "order": 2005,
+                        "parent": 29117,
+                        "selected": 1
+                    },
+                    {
+                        "name": "2006",
+                        "id": 29176,
+                        "in": 1,
+                        "order": 2006,
+                        "parent": 29117,
+                        "selected": 1
+                    },
+                    {
+                        "name": "2007",
+                        "id": 29177,
+                        "in": 1,
+                        "order": 2007,
+                        "parent": 29117,
+                        "selected": 1
+                    },
+                    {
+                        "name": "2008",
+                        "id": 29178,
+                        "in": 1,
+                        "order": 2008,
+                        "parent": 29117,
+                        "selected": 1
+                    },
+                    {
+                        "name": "2009",
+                        "id": 29179,
+                        "in": 1,
+                        "order": 2009,
+                        "parent": 29117,
+                        "selected": 1
+                    },
+                    {
+                        "name": "2010",
+                        "id": 29180,
+                        "in": 1,
+                        "order": 2010,
+                        "parent": 29117,
+                        "selected": 1
+                    },
+                    {
+                        "name": "2011",
+                        "id": 29181,
+                        "in": 1,
+                        "order": 2011,
+                        "parent": 29117,
+                        "selected": 1
+                    },
+                    {
+                        "name": "2012",
+                        "id": 29182,
+                        "in": 1,
+                        "order": 2012,
+                        "parent": 29117,
+                        "selected": 1
+                    },
+                    {
+                        "name": "2013",
+                        "id": 29183,
+                        "in": 1,
+                        "order": 2013,
+                        "parent": 29117,
+                        "selected": 1
+                    },
+                    {
+                        "name": "2014",
+                        "id": 29184,
+                        "in": 1,
+                        "order": 2014,
+                        "parent": 29117,
+                        "selected": 1
+                    },
+                    {
+                        "name": "2015",
+                        "id": 29185,
+                        "in": 1,
+                        "order": 2015,
+                        "parent": 29117,
+                        "selected": 1
+                    },
+                    {
+                        "name": "2016",
+                        "id": 29186,
+                        "in": 1,
+                        "order": 2016,
+                        "parent": 29117,
+                        "selected": 1
+                    },
+                    {
+                        "name": "2017",
+                        "id": 29187,
+                        "in": 1,
+                        "order": 2017,
+                        "parent": 29117,
+                        "selected": 1
+                    },
+                    {
+                        "name": "2018",
+                        "id": 29188,
+                        "in": 1,
+                        "order": 2018,
+                        "parent": 29117,
+                        "selected": 1
+                    },
+                    {
+                        "name": "2019",
+                        "id": 29189,
+                        "in": 1,
+                        "order": 2019,
+                        "parent": 29117,
+                        "selected": 1
+                    },
+                    {
+                        "name": "2020",
+                        "id": 29190,
+                        "in": 1,
+                        "order": 2020,
+                        "parent": 29117,
+                        "selected": 1
+                    },
+                    {
+                        "name": "2021",
+                        "id": 29191,
+                        "in": 1,
+                        "order": 2021,
+                        "parent": 29117,
+                        "selected": 1
+                    }
+                ]
+            }
+        ],
+        "sources": [
+            {
+                "id": 26,
+                "description": "Sobre la base de encuestas de hogares de los países. Banco de Datos de Encuestas de Hogares (BADEHOG).",
+                "publication_url": "",
+                "organization_acronym": "CEPAL",
+                "organization_name": "Comisión Económica para América Latina y el Caribe",
+                "organization_url": "https://www.cepal.org/"
+            }
+        ],
+        "footnotes": [
+            {
+                "id": 86,
+                "description": "Área urbana."
+            },
+            {
+                "id": 8647,
+                "description": "Cuarto trimestre. Serie comparable hasta 2002."
+            },
+            {
+                "id": 8649,
+                "description": "Datos anuales. Serie comparable desde 2004."
+            },
+            {
+                "id": 8609,
+                "description": "Datos anuales. Serie comparable desde 2016."
+            },
+            {
+                "id": 8648,
+                "description": "Mayo a diciembre de 2003."
+            },
+            {
+                "id": 923,
+                "description": "Octubre"
+            },
+            {
+                "id": 337,
+                "description": "Período de referencia: Cuarto trimestre."
+            },
+            {
+                "id": 8608,
+                "description": "Septiembre. Serie comparable hasta 2015."
+            }
+        ],
+        "credits": [
+            {
+                "id": 0,
+                "description": "2023-06-18"
+            },
+            {
+                "id": 1,
+                "description": "CEPALSTAT"
+            },
+            {
+                "id": 2,
+                "description": "Comisión Económica para América Latina y el Caribe – CEPAL"
+            },
+            {
+                "id": 3,
+                "description": "Naciones Unidas"
+            }
+        ]
+    },
+    "footer": {
+        "records": 184,
+        "elapsed_time": "0.13010",
+        "ip": "181.93.75.241",
+        "query": "http://api-cepalstat.cepal.org/cepalstat/api/v1/indicator/3328/data?members=216,222,224,244,258,1363,1362,1366,29170,29171,29172,29173,29174,29175,29176,29177,29178,29179,29180,29181,29182,29183,29184,29185,29186,29187,29188,29189,29190,29191&lang=es&format=json&in=1&app=dashboard"
+    }
+}
